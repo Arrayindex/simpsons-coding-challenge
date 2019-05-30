@@ -20,7 +20,7 @@ _We need to see this_
 
 **How to submit**
 
-Fork this github repositorty and commit your submission in your fork, send us a link and we'll clone and review the code when it's submitted to us.
+Fork this github repository and commit your submission in your fork, send us a link and we'll clone and review the code when it's submitted to us.
 
 **Required Technologies:**
 
