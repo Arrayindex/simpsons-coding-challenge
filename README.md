@@ -33,6 +33,7 @@ Fork this github repositorty and commit your submission in your fork, send us a 
 **Optional Technologies**
 
 * Docker
+* Swagger
 
 **Notes**
 
