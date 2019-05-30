@@ -29,11 +29,11 @@ Fork this github repositorty and commit your submission in your fork, send us a 
 * JQuery
 * Bootstrap
 
+**Optional Technologies**
+
+* Docker
+
 **Notes**
 
 * We're not asking you to spin up a full database, an in memory datastore is good enough.
 * Once we recieve your submission we'll look at the code from the time you email us your submission. (Production deployments are important and should be taken with care)
-
-**Optional Technologies**
-
-* Docker
