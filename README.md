@@ -8,6 +8,7 @@ _We need to see this_
 
 1. A spring boot application that starts on port 8081
 1. A rest api that serves up all of the characters, allows search of characters, and returns a specific character's quotes.
+1. We would like to all CRUD operations supported in this api.
 1. __Meaningful__ Junit Unit tests 
 
 **What we're looking at**
