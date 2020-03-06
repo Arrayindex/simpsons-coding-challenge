@@ -20,7 +20,7 @@ _We need to see this_
 
 **How to submit**
 
-Fork this github repository and commit your submission to your repository, send us a link and we'll clone and review the code when it's submitted to us.
+Clone this github repository and commit your submission to your repository, send us a link and we'll clone and review the code when it's submitted to us.
 
 **Required Technologies:**
 
@@ -39,5 +39,5 @@ Fork this github repository and commit your submission to your repository, send 
 **Notes**
 
 * We're not asking you to spin up a full database, an in memory datastore is good enough for our purposes.
-* Once we recieve your submission we'll look at the code from the time you email us your submission. (Production deployments are important and should be taken with care)
+* We'll look at the code from the time you email us your submission.
 * Feel free to expand on this idea add functionality beyond the base ask, this is your opportunity to show off :)
